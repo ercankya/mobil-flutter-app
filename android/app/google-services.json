@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021699733826",
+    "project_id": "fal-zamani-9e621",
+    "storage_bucket": "fal-zamani-9e621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021699733826:android:2d8b8512713bbb1b8cf0db",
+        "android_client_info": {
+          "package_name": "com.example.fal_zamani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021699733826-bt3kf5svj95jvj4uh9og55nk5i9eaaor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxMwe8AOH-od-z4H3dzTttIy-FZ12agK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021699733826-bt3kf5svj95jvj4uh9og55nk5i9eaaor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
